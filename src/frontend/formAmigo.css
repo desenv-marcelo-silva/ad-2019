@@ -1,0 +1,13 @@
+div#toFormAmigo {
+    margin-top: 1em;
+    margin-left: 1em;
+    width: 350px;
+}
+
+div#toFormAmigo > form > div {
+    margin: 1em;
+}
+
+div#toFormAmigo > form > div > input, label > input {
+    float: right;
+}

@@ -1,0 +1,13 @@
+div#toListAmigo {
+    margin: 2em;
+}
+
+div#toListAmigo table {
+    border-collapse: collapse;
+    border: 1px solid #ccc    
+}
+
+div#toListAmigo table td, th {
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+}
